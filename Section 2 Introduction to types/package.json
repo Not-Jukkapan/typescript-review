@@ -1,0 +1,12 @@
+{
+  "name": "section-2-introduction-to-types",
+  "version": "1.0.0",
+  "description": "เราจะมาทวนพวก type พื้นฐานกัน ว่าเราจะเจออะไรบ้าง",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
